@@ -1,0 +1,41 @@
+{
+  "name": "rest-articles",
+  "version": "1.0.0",
+  "description": "A REST API for Tim Akano Personal Page",
+  "main": "server.js",
+  "scripts": {
+    "test": "Node",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamolami/rest-articles.git"
+  },
+  "keywords": [
+    "Node",
+    "JS",
+    "Ejs",
+    "Express",
+    "Cookie-parser",
+    "and",
+    "more."
+  ],
+  "author": "Integer <musediqolamilekan567@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iamolami/rest-articles/issues"
+  },
+  "homepage": "https://github.com/iamolami/rest-articles#readme",
+  "dependencies": {
+    "compression": "^1.7.4",
+    "cookie-parser": "^1.4.5",
+    "error-handler": "^1.0.0",
+    "express": "^4.17.1",
+    "express-session": "^1.17.2",
+    "express-validator": "^5.3.0",
+    "method-override": "^3.0.0",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.13",
+    "path": "^0.12.7"
+  }
+}
