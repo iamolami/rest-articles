@@ -1,6 +1,9 @@
-[
-    {
+{
+    "data": [
+       {
+        "id": 1,
         "name": "Sand of the East",
-        "content": "I am connected buddy"
-    }
-]
+        "content": "I am connected"
+       }
+    ]
+}
