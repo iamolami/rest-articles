@@ -59,6 +59,18 @@
 				"Teleportation",
 				"Interdimensional travel"
 			]
+		},
+        {
+			"name": "karen",
+			"age": 600000,
+			"secretIdentity": "Unknown",
+			"powers": [
+				"Immortality",
+				"Heat Immunity",
+				"Inferno",
+				"Teleportation",
+				"Interdimensional travel"
+			]
 		}
 	]
 }
