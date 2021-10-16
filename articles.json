@@ -1,78 +1,54 @@
 {
-	"squadName": "Super Hero Squad",
-	"homeTown": "Metro City",
-	"formed": 2016,
-	"secretBase": "Super tower",
-	"active": true,
-	"members": [{
-			"name": "Molecule Man",
+    "members": [{
+            "name": "2021+: WHAT’S COMING NEXT?",
             "avatar": "https://lh3.googleusercontent.com/7I3twpc6eYiPU7w6D58AFawXRkvZwxsW_uVA5sL4KhbmK_rzOoeBDge7r5Hyc7JW2dFCV7w=s85",
-			"age": 29,
-			"secretIdentity": "Dan Jukes",
-			"powers": [
-				"Radiation resistance",
-				"Turning tiny",
-				"Radiation blast"
-			]
-		},
-		{
-			"name": "Madame Uppercut",
-			"age": 39,
-			"secretIdentity": "Jane Wilson",
-			"powers": [
-				"Million tonne punch",
-				"Damage resistance",
-				"Superhuman reflexes"
-			]
-		},
-		{
-			"name": "Eternal Flame",
-			"age": 1000000,
-			"secretIdentity": "Unknown",
-			"powers": [
-				"Immortality",
-				"Heat Immunity",
-				"Inferno",
-				"Teleportation",
-				"Interdimensional travel"
-			]
-		},
-		{
-			"name": "Olamilekan",
+            "date": "8th , August, 2020",
+            "author": "Tim Akano",
+            "content": "In solitude, the mind gains strength and learns to lean upon itself. On the other side of the storm is the strength that comes from having navigated through it."
+        },
+        {
+            "name": "AS AMERICA’S SKY GETS DARK",
+            "date": "27th September, 2020",
+            "author": "Tim Akano",
+            "content": "All empires fall, eventually. But why? It’s not for lack of power. In fact, it seems to be the opposite. Their power lulls them into comfort."
+        },
+        {
+            "name": "STABILITY IN THE STORM",
+            "date": "28th June 2020",
+            "author": "Tim Akano",
+            "content": "It is not the strongest or the most intelligent who will survive but those who can best manage change"
+        },
+        {
+            "name": "The Collapsing World Bridge",
             "avatar": "https://media.istockphoto.com/photos/boy-draws-with-a-brush-a-big-light-bulb-concept-of-innovation-and-picture-id1133176165?s=612x612",
-			"age": 600000,
-			"secretIdentity": "Unknown",
-			"powers": [
-				"Immortality",
-				"Heat Immunity",
-				"Inferno",
-				"Teleportation",
-				"Interdimensional travel"
-			]
-		},
+            "date": "31st May, 2020",
+            "author": "Tim Akano",
+            "content": "The bridge of peace is collapsing and the bridge of war is now under construction, perhaps at faster rate than the collapse of the bridge of peace."
+        },
         {
-			"name": "wale",
-			"age": 600000,
-			"secretIdentity": "Unknown",
-			"powers": [
-				"Immortality",
-				"Heat Immunity",
-				"Inferno",
-				"Teleportation",
-				"Interdimensional travel"
-			]
-		},
+            "name": "THE SANDS ARE SHIFTING… 1",
+            "date": "29th November, 2020",
+            "author": "Tim Akano",
+            "content": "Life is a desert of shifting sand dunes. Unpredictable. Erratic. Harmony changes into dissonance, the immediate outlives the profound, esoteric becomes clichéd."
+        },
         {
-			"name": "karen",
-			"age": 600000,
-			"secretIdentity": "Unknown",
-			"powers": [
-				"Immortality",
-				"Heat Immunity",
-				"Inferno",
-				"Teleportation",
-				"Interdimensional travel"
-			]
-		}
-	]
+            "name": "Finding the 18th Duck…or Finding the Steve Jobs’ Way",
+            "date": "1st October, 2021",
+            "author": "Tim Akano",
+            "content": "Crisis equals opportunity. And difficult roads often lead to amazing destinations. Always? Sometimes?"
+        },
+        {
+            "name": "Collaboration vs Total Ownership Mentality -TOM",
+            "date": "12th October, 2021",
+            "author": "Tim Akano",
+            "content": "How come 18 African billionaires made the Forbes 2021 ranking list of the world's richest people but there is no single African-owned company on the 2021 Fortune Global 500 companies ranking?"
+        },
+        {
+            "name": "The Game of Life & The 3 Teams Featuring",
+            "date": "14th, October 2021",
+            "author": "Tim Akano",
+            "content": "Nigerians are great people but the nation is perpetually on the brink with blinking, non stop red light which signifies imminent existential threats."
+        }
+
+    ]
 }
