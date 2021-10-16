@@ -1,16 +1,13 @@
-const express = require('express')
-const router = express.Router()
-const articles = require('../resources/articles')
+var _ = require('lodash');
+var articles = require('../resources/articles');
 
-//Getting all
-router.get('/', async (req, res) => {
-    try {
-        res.json(articles)
-    } catch (err) {
-        res.status(500).json({
-            message: err.message
-        })
-    }
-})
+var notFound = function(res) {
+  res.json(404, {
+    message: "Sorry, that page does not exist",
+    code: 34
+  })
+}
 
-module.exports = router;
+exports.index = function(req, res) {
+  res.status(200).json(articles)
+}
