@@ -47,6 +47,18 @@
 				"Teleportation",
 				"Interdimensional travel"
 			]
+		},
+        {
+			"name": "wale",
+			"age": 600000,
+			"secretIdentity": "Unknown",
+			"powers": [
+				"Immortality",
+				"Heat Immunity",
+				"Inferno",
+				"Teleportation",
+				"Interdimensional travel"
+			]
 		}
 	]
 }
