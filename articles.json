@@ -6,6 +6,7 @@
 	"active": true,
 	"members": [{
 			"name": "Molecule Man",
+            "avatar": "https://lh3.googleusercontent.com/7I3twpc6eYiPU7w6D58AFawXRkvZwxsW_uVA5sL4KhbmK_rzOoeBDge7r5Hyc7JW2dFCV7w=s85",
 			"age": 29,
 			"secretIdentity": "Dan Jukes",
 			"powers": [
